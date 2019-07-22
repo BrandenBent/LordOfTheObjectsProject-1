@@ -1,6 +1,8 @@
 # Lord Of The Objects Project
 
 ## Overview
+This project is an assignment from the Skill Distillery FullStack Java Bootcamp focussing on Object Oriented Java programming.
+
 The overall goal of this project was to solidify our understanding of object oriented programming by creating a terminal game. Through the implementation of our game, we would practice three of the four fundamentals of OOP: abstraction, encapsulation, and inheritance. The project had six basic criteria:
 1. When the program starts, the user is welcomed and given a list of available commands.
 2. The game continues until the user either dies reaches the win condition.
